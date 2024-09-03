@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"S1",1," Slideswitch"
+"SERVO1",1,"Positional Micro Servo"
+"U1",1," Arduino Uno R3"
